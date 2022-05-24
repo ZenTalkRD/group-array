@@ -31,7 +31,7 @@
     "get-value": "^3.0.1",
     "kind-of": "^6.0.2",
     "split-string": "^6.1.0",
-    "union-value": "^2.0.1"
+    "union-value": "git+https://github.com/ZenTalkRD/union-value.git"
   },
   "devDependencies": {
     "gulp-format-md": "^2.0.0",
